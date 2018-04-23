@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Just me.
+
+# THANKS
+
+    Ana Paula Formenti, João Pedro Ramos, Caio Jacintho, Doca, Francisco Carabetta & Internet <3.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    jQuery, Modernizr, Normalize.css
